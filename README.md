@@ -1,2 +1,2 @@
-# Tumor Detection Software AI GUI
+# Tumor Classification with GUI
  
